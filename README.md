@@ -1,7 +1,7 @@
 # Classification-map-of-cropland-in-Ukraine
 
 # Data description
-This data is the classification result of cropland in Ukraine from 2015 to 2023, which is obtained by the dual-period change detection(DCD) method.
+This data is the annual classification result of cropland in Ukraine from 2015 to 2023, which is obtained by the dual-period change detection(DCD) method.
 
 # Code number
 Land classification
